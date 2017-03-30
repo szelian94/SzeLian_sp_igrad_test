@@ -2,5 +2,6 @@
 
 How to run the program:
 1. Clone / Download the project
-2. Import the folder to eclispe
-3. Run the main program (MainProgram.java) 
+2. Extract the zip file
+3. Import the folder to eclispe (File>Import>Existing Projects into Workspace)
+4. Run the main program (MainProgram.java) 
